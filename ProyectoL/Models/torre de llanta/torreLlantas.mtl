@@ -1,0 +1,9 @@
+newmtl Material__45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd OIP.jpg
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 0.06
